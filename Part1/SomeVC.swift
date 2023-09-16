@@ -61,7 +61,8 @@ class someVC: UIViewController,UICollectionViewDelegate,UICollectionViewDelegate
     }
     
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, minimumLineSpacingForSectionAt section: Int) -> CGFloat {
-        let frameWidth = (view.frame.width * 0.2929 * 3) + 84 var minSpacing: CGFloat = (view.frame.width - frameWidth)/2
+        let frameWidth = (view.frame.width * 0.2929 * 3) + 84
+         var minSpacing: CGFloat = (view.frame.width - frameWidth)/2
         if isIPhone() {
             minSpacing = 24
         }
