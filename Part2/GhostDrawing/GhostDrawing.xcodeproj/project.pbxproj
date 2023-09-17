@@ -21,6 +21,8 @@
 		E703A0442AACBE8700D0284C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E703A0472AACBE8700D0284C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E703A04F2AAEFD9F00D0284C /* DrawingCanvas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingCanvas.swift; sourceTree = "<group>"; };
+		E75C04572AB7744A00285B72 /* ReadMe */ = {isa = PBXFileReference; lastKnownFileType = text; path = ReadMe; sourceTree = "<group>"; };
+		E75C04582AB7749800285B72 /* DIL_iOS Developer- Take Home Test.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "DIL_iOS Developer- Take Home Test.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +39,8 @@
 		E703A0342AACBE8500D0284C = {
 			isa = PBXGroup;
 			children = (
+				E75C04572AB7744A00285B72 /* ReadMe */,
+				E75C04582AB7749800285B72 /* DIL_iOS Developer- Take Home Test.pdf */,
 				E703A03F2AACBE8500D0284C /* GhostDrawing */,
 				E703A03E2AACBE8500D0284C /* Products */,
 			);

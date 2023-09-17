@@ -1,0 +1,2 @@
+The motivation of using a drawing canvas was to not record (and draw again) all drawing gestures happened so far, but to accumulate only their results.
+This way performance is the same regardless of how many drawing happened before the current drawing.
